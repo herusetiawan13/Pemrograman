@@ -1,10 +1,10 @@
 # Pemrograman
 Semua hasil tugas kuliah
 
-git clone https://github.com/herusetiawan13/Pemrograman
-git init
-git add
-git commit -m "update readme"
-git push
-git status
-git pull
+<p>git clone https://github.com/herusetiawan13/Pemrograman</p>
+<p>git init</p>
+<p>git add .</p>
+<p>git commit -m "update readme"</p>
+<p>git push</p>
+<p>git status</p>
+<p>git pull</p>
